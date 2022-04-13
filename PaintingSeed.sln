@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaintingSeed", "PaintingSeed\PaintingSeed.csproj", "{A7702EAB-8A43-40AF-BA51-25028F272680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7702EAB-8A43-40AF-BA51-25028F272680}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A7702EAB-8A43-40AF-BA51-25028F272680}.Debug|Any CPU.Build.0 = Debug|x64
+		{A7702EAB-8A43-40AF-BA51-25028F272680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7702EAB-8A43-40AF-BA51-25028F272680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7026875A-01A8-4606-BA85-4E41CF931874}
+	EndGlobalSection
+EndGlobal
